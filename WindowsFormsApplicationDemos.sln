@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCam", "WebCam\WebCam.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanBarcodeWithWebCam", "ScanBarcodeWithWebCam\ScanBarcodeWithWebCam.csproj", "{17E738E9-13B1-48B5-8981-AAE18EDD344A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeGenerator", "BarcodeGenerator\BarcodeGenerator.csproj", "{20F03F19-682D-4FC9-920F-BC00A2055753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print", "Print\Print.csproj", "{89944503-82A8-4802-9CC4-B6846752731F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPDF", "PrintPDF\PrintPDF.csproj", "{328BC4D6-DD72-4835-9AC6-4C0E2A18DE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFPreview", "PDFPreview\PDFPreview.csproj", "{803D87D4-2DF1-4D5F-B28D-134ED6ECBB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{A9E78B0B-E7A3-4E46-8886-6925136EB34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{17E738E9-13B1-48B5-8981-AAE18EDD344A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E738E9-13B1-48B5-8981-AAE18EDD344A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E738E9-13B1-48B5-8981-AAE18EDD344A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F03F19-682D-4FC9-920F-BC00A2055753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F03F19-682D-4FC9-920F-BC00A2055753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F03F19-682D-4FC9-920F-BC00A2055753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F03F19-682D-4FC9-920F-BC00A2055753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89944503-82A8-4802-9CC4-B6846752731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89944503-82A8-4802-9CC4-B6846752731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89944503-82A8-4802-9CC4-B6846752731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89944503-82A8-4802-9CC4-B6846752731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328BC4D6-DD72-4835-9AC6-4C0E2A18DE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328BC4D6-DD72-4835-9AC6-4C0E2A18DE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328BC4D6-DD72-4835-9AC6-4C0E2A18DE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328BC4D6-DD72-4835-9AC6-4C0E2A18DE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803D87D4-2DF1-4D5F-B28D-134ED6ECBB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803D87D4-2DF1-4D5F-B28D-134ED6ECBB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803D87D4-2DF1-4D5F-B28D-134ED6ECBB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803D87D4-2DF1-4D5F-B28D-134ED6ECBB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E78B0B-E7A3-4E46-8886-6925136EB34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E78B0B-E7A3-4E46-8886-6925136EB34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E78B0B-E7A3-4E46-8886-6925136EB34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E78B0B-E7A3-4E46-8886-6925136EB34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
